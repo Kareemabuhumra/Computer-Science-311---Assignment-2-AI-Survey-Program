@@ -3,7 +3,7 @@
  * Name: Kareem Abu Humra
  * Class: Computer Science 311 AI Survey Program
  * Assignment: Political Party Survey Program
- * Date: [Insert the date here]
+ * Date: 6/18/2024
  */
 
 #include <iostream>
